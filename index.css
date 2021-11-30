@@ -1,0 +1,35 @@
+body {
+  padding-top: 50px;
+  color: #f4ffb6;
+  background-color: #242631;
+}
+
+.naji-cbody {
+  max-width: 1000px;
+  margin: auto;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  color: wheat;
+}
+
+td,
+th {
+  border: 1px solid #3a3a3a;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #363636;
+}
+
+.naji-searchText {
+  background-color: #242631;
+  color: wheat;
+  width: 300px;
+}
